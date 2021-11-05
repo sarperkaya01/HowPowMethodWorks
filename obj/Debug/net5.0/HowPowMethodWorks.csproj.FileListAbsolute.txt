@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.exe
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.deps.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.runtimeconfig.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\ref\HowPowMethodWorks.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\bin\Debug\net5.0\HowPowMethodWorks.pdb
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\ref\HowPowMethodWorks.dll
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.pdb
+C:\Users\PC\Desktop\C# MyProjects\MyProjects\HowPowMethodWorks\obj\Debug\net5.0\HowPowMethodWorks.genruntimeconfig.cache
